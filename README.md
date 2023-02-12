@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel Aka Neimax</h1>
 
-- 📎 Owner [Argon Roleplay](https://discord.gg/argonrp)
+- 👑 Owner [Argon Roleplay](https://discord.gg/argonrp)
+
+- 📙 Known Languages: English, Italian, Romanian
 
 <h3>Developer languages that i know:</h3>
 
