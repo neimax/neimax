@@ -6,7 +6,7 @@
 
 - 📙 Main Language: Italian, Romanian
 
-- 🥰 Currently Following: MatteoHS
+- 🥰 Currently Following: [MatteoHS](https://twitch.tv/matteohs)
 
 <h3>Developer languages that i know:</h3>
 
