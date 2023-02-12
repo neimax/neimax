@@ -4,6 +4,8 @@
 
 - 📙 Known Languages: English, Italian, Romanian
 
+- 📙 Main Language: Italian, Romanian
+
 - 🥰 Currently Following: MatteoHS
 
 <h3>Developer languages that i know:</h3>
