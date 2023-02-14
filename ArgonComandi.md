@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Comandi Per il bot 🤖</h1>
+<h1 align="center">🤖 Comandi Per il bot Argon 🤖</h1>
 
 - 🤖 !comandi = **Manda in dm la lista dei comandi (che sarebbe questa pagina qui)**
 
