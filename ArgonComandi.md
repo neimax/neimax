@@ -22,4 +22,4 @@
 
 - 🤖 !serveron = **Scrive In chat ooc / communicazioni che il server e on (SOLO ESEGUIBILE PER GLI OWNER)**
 
-- **MORE COMING SOON...*
+- **MORE COMING SOON...**
