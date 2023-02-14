@@ -1,5 +1,7 @@
 <h1 align="center">🤖 Comandi Per il bot 🤖</h1>
 
+- 🤖 !comandi = **Manda in dm la lista dei comandi (che sarebbe questa pagina qui)**
+
 - 🤖 !transcript = **Ricevi un file in privato degli ultimi 100 messaggi del canale**
 
 - 🤖 !ping = **Visualizza il ping dell hosting**
