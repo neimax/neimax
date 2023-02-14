@@ -21,3 +21,5 @@
 - 🤖 !riunionestaff = **Scrive a tutto lo staff di venire in riunione (SOLO ESEGUIBILE PER GLI OWNER)**
 
 - 🤖 !serveron = **Scrive In chat ooc / communicazioni che il server e on (SOLO ESEGUIBILE PER GLI OWNER)**
+
+- **MORE COMING SOON...*
