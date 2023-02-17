@@ -6,8 +6,6 @@
 
 - 🤖 !ping = **Visualizza il ping dell hosting**
 
-- 🤖 !ping = **Visualizza il ping dell hosting**
-
 - 🤖 !anonimo = **Messaggio criptato per la chat ic (Con un testo dentro)**
 
 - 🤖 !assistenza = **Contattare il supporto staff Per assistenza (SOLO ESEGUIBILE NEL CANALE TAG-STAFF)**
