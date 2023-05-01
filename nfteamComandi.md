@@ -1,1 +1,0 @@
-- 🤖 !comandi = **Ti manda un link in cui ci sono tutti i comandi**
