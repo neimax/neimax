@@ -4,8 +4,6 @@
 
 - 📙 Main Language: Italian, Romanian
 
-- 🥰 Currently Following: [MatteoHS](https://discord.gg/matteohs)
-
 - ➤ Discord: neimax#6969
 
 <h3>Developer languages that i know:</h3>
