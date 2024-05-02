@@ -16,4 +16,4 @@
 
 <a href="https://discord.js.org/" target="_blank"> <img src="https://discord.js.org/static/logo.svg" alt="discord.js" width="40" height="40" /> </a>
 
-<a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40" /> </a>
+<a href="https://www.lua.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" alt="lua" width="40" height="40" /> </a>
