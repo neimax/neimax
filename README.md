@@ -7,7 +7,7 @@
 
 - 💻 Known languages: **HTML | MYSQL | NODEJS | EXPRESSJS | LUA | PYTHON**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My contats:</h3>
 <a href="https://discord.gg/gWD99E9yas" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lua" width="40" height="40" /> </a> 
 <a href="https://t.me/neimax1806" target="_blank"> <img src="https://static.vecteezy.com/system/resources/previews/023/986/562/non_2x/telegram-logo-telegram-logo-transparent-telegram-icon-transparent-free-free-png.png" alt="lua" width="40" height="40" /> </a> 
 
