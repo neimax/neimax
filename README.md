@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm neimax/h1>
+<h1 align="center">👋 Hi, I'm neimax</h1>
 <h3 align="center">🎭 Who am i?</h3>
 
 -  🏴‍☠️ My origins: Romanian / Arabic (IRAQ)
