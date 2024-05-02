@@ -9,7 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://discord.gg/gWD99E9yas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gWD99E9yas" height="30" width="40" /></a>
+    <a href="https://discord.gg/gWD99E9yas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="svds" height="30" width="40" /></a>
+</p>
+<p align="left">
+    <a href="https://t.me/neimax1806" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="tg" height="30" width="40" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>
