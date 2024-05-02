@@ -8,12 +8,8 @@
 - 💻 Known languages: **HTML | MYSQL | NODEJS | EXPRESSJS | LUA | PYTHON**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://discord.gg/gWD99E9yas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="svds" height="30" width="40" /></a>
-</p>
-<p align="left">
-    <a href="https://t.me/neimax1806" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="tg" height="30" width="40" /></a>
-</p>
+<a href="https://discord.gg/gWD99E9yas" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lua" width="40" height="40" /> </a> 
+<a href="https://t.me/neimax1806" target="_blank"> <img src="https://static.vecteezy.com/system/resources/previews/023/986/562/non_2x/telegram-logo-telegram-logo-transparent-telegram-icon-transparent-free-free-png.png" alt="lua" width="40" height="40" /> </a> 
 
 <h3>Languages and Tools:</h3>
 <a href="https://lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" /> </a> 
